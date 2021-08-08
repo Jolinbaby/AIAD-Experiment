@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAR.Sense", "EasyAR.Sense.csproj", "{421A5418-472A-E407-73D9-A7BD603653E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAR.Sense.Sample.MotionTracking_ImageTarget", "EasyAR.Sense.Sample.MotionTracking_ImageTarget.csproj", "{9BBE3F2E-6211-8C47-2788-CF2E87E49E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAR.Sense.Sample.SurfaceTracking_ImageTarget", "EasyAR.Sense.Sample.SurfaceTracking_ImageTarget.csproj", "{C3D92335-8C7C-D4F8-5BC7-482334D2FF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{60A2E141-5D7D-16EA-7E8D-36815EB6753F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAR.Sense.Editor", "EasyAR.Sense.Editor.csproj", "{CBE45E88-D638-C443-7555-913E9FD386D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421A5418-472A-E407-73D9-A7BD603653E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421A5418-472A-E407-73D9-A7BD603653E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421A5418-472A-E407-73D9-A7BD603653E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421A5418-472A-E407-73D9-A7BD603653E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBE3F2E-6211-8C47-2788-CF2E87E49E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBE3F2E-6211-8C47-2788-CF2E87E49E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBE3F2E-6211-8C47-2788-CF2E87E49E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBE3F2E-6211-8C47-2788-CF2E87E49E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D92335-8C7C-D4F8-5BC7-482334D2FF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D92335-8C7C-D4F8-5BC7-482334D2FF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D92335-8C7C-D4F8-5BC7-482334D2FF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D92335-8C7C-D4F8-5BC7-482334D2FF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A2E141-5D7D-16EA-7E8D-36815EB6753F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A2E141-5D7D-16EA-7E8D-36815EB6753F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A2E141-5D7D-16EA-7E8D-36815EB6753F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A2E141-5D7D-16EA-7E8D-36815EB6753F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE45E88-D638-C443-7555-913E9FD386D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE45E88-D638-C443-7555-913E9FD386D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE45E88-D638-C443-7555-913E9FD386D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE45E88-D638-C443-7555-913E9FD386D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
